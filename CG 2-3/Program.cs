@@ -7,7 +7,6 @@ namespace CG_2_3
         static void Main(string[] args)
         {
             Console.WriteLine("When were you born?");
-            Console.ReadLine();
 
             Console.Write("Please type your full month of birth (ex. September): ");
             String birthMonth;
